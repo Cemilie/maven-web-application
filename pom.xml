@@ -6,7 +6,7 @@
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
 	
-	<version>0.0.1 snapshots</version> 
+	<version>0.0.1</version> 
 	
 	<name>maven-web-application</name>
 
@@ -96,7 +96,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.15.179.182:8081/repository/ebay-releases/</url>
+	      <url>http://3.145.215.79:4050/repository/ebay-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
